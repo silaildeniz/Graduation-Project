@@ -36,9 +36,7 @@ Dart: Flutter ile birlikte kullanılan programlama dili.
 TensorFlow Lite: Modelin mobil uyumlu hale getirilmesi için kullanıldı.
 
 # Proje Yapısı
-bash
-Kopyala
-Düzenle
+
 /mobil_surusu_asistani
 │
 ├── /assets                  # Görsel ve model dosyaları
